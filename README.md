@@ -1,2 +1,2 @@
-# SmartContactManager
+# EasyContact
 SpringBoot Website
